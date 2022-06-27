@@ -3,10 +3,13 @@
 <br />
 
 - 🏢 &nbsp; I’m currently working at [Holidu](https://holidu.com)
-- 🌱 &nbsp; I’m currently learning Tailwind
-- 💬 &nbsp; Ask me about Front-end, Space and Formula 1
-- 🌐 &nbsp; In love with JavaScript
-- ⚛ &nbsp; Developing in React and Typescript
+- Fixing the bugs I created when fixing that other bug
+- Yelling at the computer screen and expecting it to yell back
+- Ranging between “I love programming” and “I hate my life” on a daily basis
+- Trying to figure out how to align that div one pixel to the left
+- Constantly questioning the brain capacity of users
+- Telling my family that even though I work with tech, I’m awful at installing printers
+- Working on features that no one asked for
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
