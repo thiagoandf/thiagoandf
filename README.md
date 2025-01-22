@@ -2,7 +2,7 @@
 <h3 align="center">Technology enthusiast, avid learner and full-stack developer</h3>
 <br />
 
-- 🏢 &nbsp; I’m currently working at [Holidu](https://holidu.com)
+- 🏢 &nbsp; I’m currently working at [HubSpot](https://hubspot.com)
 - Fixing the bugs I created when fixing that other bug
 - Yelling at the computer screen and expecting it to yell back
 - Ranging between “I love programming” and “I hate my life” on a daily basis
